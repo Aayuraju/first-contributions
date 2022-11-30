@@ -198,7 +198,6 @@
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [Sudarsan Balaji](https://github.com/artfuldev)
 - [jatin kumar](https://github.com/jatin75757)
-- [Barnamoy Roy](https://github.com/Ed-Monkey)
 - [ahmad nawaz khan](https://github.com/4hmaad)
 - [Ishita Batra](https://github.com/ishita6)
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
@@ -772,7 +771,7 @@
 - [Sengul Kaya](https://github.com/sengulkaya)
 - [Kareem Kamal](https://github.com/eskiimo)
 - [hhwe](https://github.com/hhwe)
-- [Sumon Chandra](https://github.com/sumon-chandra)
+- [Sumon Chandra](https://github.com/sumon-chandra)Ayu
 - [Nour Elhamshary](https://github.com/Nour-Elhamshary)
 - [Harish Krishnan](https://github.com/dirtyKitchen)
 - [Ketan Kulkarni] (https://github.com/kulketan)
@@ -784,5 +783,6 @@
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
+- [Ayush Raj]. (https://github.com/Aayuraju)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
